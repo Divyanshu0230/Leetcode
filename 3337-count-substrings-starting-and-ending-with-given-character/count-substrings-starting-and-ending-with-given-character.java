@@ -8,8 +8,8 @@ class Solution {
        
             }
         }
-        long result=count*(count+1)/2;
-        return result;
+        return count*(count+1)/2;
+        
 
 
     }
