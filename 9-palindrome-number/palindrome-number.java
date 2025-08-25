@@ -3,7 +3,7 @@ class Solution {
         if(x<0){
             return false;
         }
-         int copy=x;
+        int copy=x;
         int rev=0;
         while(x!=0){
             int digit=x%10;
