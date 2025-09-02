@@ -9,6 +9,6 @@ class Solution {
             mp.put(nums[i],i);
            }
         }
-        return new int[]{};
+        return new int[]{-1,-1};
     }
 }
